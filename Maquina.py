@@ -1,4 +1,6 @@
 
+#Guilherme Da Costa Baesse
+#Nathan Araújo Silva
 #classe principal da Maquina de Turing Universal
 class Maquina():
 	#descritor para vizualizar fitas
