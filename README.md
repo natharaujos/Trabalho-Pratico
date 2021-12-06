@@ -12,6 +12,3 @@
 
 - Cada execução da simulação é impressa e foi utilizado 3 fitas na implementação 
 - No final da execução retorna uma mensagem se a palavra foi aceita ou rejeitada, podendo entrar em loop. 
-
-
-
