@@ -1,14 +1,16 @@
-# Trabalho prático-Teoria da Computação
+# Practical Work - Theory of Computation
 
-- Grupo composto por:
-    - Guilherme Da Costa Baesse
-    - Nathan Araújo Silva
+- Group composed of:
+  - Guilherme Da Costa Baesse
+  - Nathan Araújo Silva
 
-- Implementação Maquina de Turing Universal
-- Para executar os testes utilize o seguinte comando:
-  
-    __Python:__
-      Python program.py __argumento1__
+- Universal Turing Machine Implementation
+- To run the tests, use the following command:
 
-- Cada execução da simulação é impressa e foi utilizado 3 fitas na implementação 
-- No final da execução retorna uma mensagem se a palavra foi aceita ou rejeitada, podendo entrar em loop. 
+  __Python:__
+  ```bash
+  python program.py __argumento1__
+  ```
+
+- Each simulation execution is printed, and the implementation utilizes 3 tapes.
+- At the end of the execution, a message is returned indicating whether the word was accepted or rejected, potentially entering a loop.
